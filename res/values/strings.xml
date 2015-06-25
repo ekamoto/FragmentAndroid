@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">estudoandroid</string>
+    <string name="msgFragment">Fragmento</string>
+    <string name="clique_aqui">Click aqui</string>
+</resources>

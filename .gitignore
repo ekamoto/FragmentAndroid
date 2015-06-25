@@ -1,0 +1,8 @@
+.idea/
+build.xml
+fragmentAndroid.iml
+gen/
+local.properties
+proguard-project.txt
+project.properties
+ant.properties
